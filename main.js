@@ -18,7 +18,7 @@ recognition.onstart = () => {
 const greetings = [
   "Hello you too",
   "Hey what is up",
-  "Hi bitch, ops",
+  "Hi body, ops",
   "oh, you again",
   "leave me alone",
 ];
@@ -32,17 +32,16 @@ const weather = [
 const HAY = [
   "Nice, what about you?",
   "better that you",
-  "I am fucking robot, you do you mind",
-  "better not answer",
+  "I'd better not answer",
   "Good, you?",
   "I wanna die",
 ];
 
 const dontUnderstand = [
   "Say again",
-  "I dont speak Japaneese",
+  "I dont speak this language",
   "What?",
-  "Jesus, what?",
+  "Say, what?",
 ];
 
 const bye = ["Finaly, good bye", "Bye", "Have fun", "I am gone, buy"];
